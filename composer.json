@@ -1,0 +1,21 @@
+{
+    "name": "smsplanet/smsplanet-php+8-client",
+    "description": "PHP client for SMSPlanet API",
+    "type": "library",
+	"keywords": ["api client", "sms", "smsplanet", "smsplanet.pl"],
+	"version": "1.0.0",
+	 "authors": [
+        {
+            "name": "SMSPLANET",
+            "email": "programista@smsplanet.pl"
+        },
+    ],
+    "require": {
+        "php": ">=8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Smsplanet\\": "src/"
+        }
+    }
+}
