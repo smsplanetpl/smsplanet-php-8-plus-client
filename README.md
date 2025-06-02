@@ -1,4 +1,4 @@
-# SMSPlanet PHP Client
+# SMSPLANET PHP Client
 
 Prosty klient PHP do wysyłania SMS-ów przez API SMSPLANET z obsługą tokenów autoryzacyjnych.
 
